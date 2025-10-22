@@ -1,1 +1,1 @@
-# Spam_EMail_Detection_NB_Classifier
+# Spam_Email_Detection_NB_Classifier
